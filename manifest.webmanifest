@@ -1,0 +1,16 @@
+{
+  "name": "YUSUKE IKEDA Official Support Website",
+  "short_name": "YUSUKE IKEDA",
+  "lang": "ja",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#f7f8fa",
+  "theme_color": "#0066ff",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+YUSUKE IKEDA / Official Support Website
+
+1. ZIPをすべて展開してください。
+   index.htmlだけを取り出さず、css / js / data / images / assets を一緒に置いてください。
+   css/style.css と css/fonts.css は同梱されています。
+
+2. 動作確認にはPython 3を使用します。
+   Windows: start-windows.bat をダブルクリック。
+   Mac: start-macos.command を実行。
+   起動したターミナルは、サイトを見ている間は開いておきます。
+   詳しい手順やPythonがない場合の方法はREADME.mdをご覧ください。
+
+3. デザインの画像確認だけなら docs/previews フォルダを開けます。
+   desktop / tablet / mobile / small の4種類です。
+
+4. 定期更新はdataフォルダのJSONファイルで行います。
+   本人写真や正式な日程・SNS・Google Forms URLは未提供のため、
+   架空の情報を入れずに準備中表示としています。
+
+設計書・指示との対応表・検証結果・公開手順はREADME.mdとdocsフォルダを参照してください。
+GitHubへのpushや公開は、この納品では行っていません。

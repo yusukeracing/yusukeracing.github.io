@@ -1,0 +1,62 @@
+{
+  "name": "池田優介",
+  "englishName": "YUSUKE IKEDA",
+  "hometown": "宮城県角田市",
+  "description": "全日本ロードレース選手権に挑戦するロードレーサー。",
+  "biography": [],
+  "story": [
+    {
+      "id": "start",
+      "label": "START",
+      "title": "はじまりの、その場所へ。",
+      "body": "走り始めたきっかけを、池田優介本人の言葉と写真で紹介していきます。",
+      "photo": null
+    },
+    {
+      "id": "first-race",
+      "label": "FIRST RACE",
+      "title": "初めて、グリッドに立った日。",
+      "body": "最初のレースの記憶は、本人への確認後に掲載します。",
+      "photo": null
+    },
+    {
+      "id": "challenge",
+      "label": "CHALLENGE",
+      "title": "結果に至るまでの、時間。",
+      "body": "練習、準備、整備。リザルトだけでは見えない時間も、この場所で伝えていきます。",
+      "photo": null
+    },
+    {
+      "id": "all-japan",
+      "label": "ALL JAPAN",
+      "title": "全日本という舞台で。",
+      "body": "現在の挑戦の舞台は、全日本ロードレース選手権。その一歩ずつを記録します。",
+      "photo": null
+    },
+    {
+      "id": "today",
+      "label": "TODAY",
+      "title": "挑戦は、まだ途中だ。",
+      "body": "次のレースへ向かう現在地を、活動報告とともにお届けします。",
+      "photo": null
+    }
+  ],
+  "photos": { "hero": [], "profile": null, "story": null, "moments": [] },
+  "socials": {
+    "Instagram": null,
+    "X": null,
+    "Threads": null,
+    "Facebook": null
+  },
+  "contact": {
+    "mode": "link",
+    "url": null,
+    "categories": [
+      "スポンサー・協賛",
+      "取材・メディア",
+      "イベント",
+      "ファン・応援",
+      "その他"
+    ]
+  }
+}
